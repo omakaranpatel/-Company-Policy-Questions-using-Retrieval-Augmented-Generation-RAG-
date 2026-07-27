@@ -1,4 +1,4 @@
-# -Company-Policy-Questions-using-Retrieval-Augmented-Generation-RAG-
+# Company-Policy-Questions-using-Retrieval-Augmented-Generation-RAG-
 
 # 📋 AI-Powered Employee Policy & Reimbursement RAG Assistant
 
